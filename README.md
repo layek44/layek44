@@ -1,7 +1,9 @@
+(https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/318418590_522706243232890_7525426683864107708_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGzlr-9RUcvqs3mkam55V9znwa6COXHxfKfBroI5cfF8q2SFQrVCg6PxuxVwAumySAJYbgidadjG-JT8-3CL76G&_nc_ohc=JkIgZC50o3kAX8Nokrk&_nc_ht=scontent.frjh1-1.fna&oh=00_AfCJrrGeNOtU3coqt1TIf60-z5nK3-8Vt34pxfby6Nskzw&oe=63DE6F6D)
+
+
 ### Hi there 👋, My name is Sony Layek
 #### I am a web developer
-![I am a web developer](https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/318418590_522706243232890_7525426683864107708_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGzlr-9RUcvqs3mkam55V9znwa6COXHxfKfBroI5cfF8q2SFQrVCg6PxuxVwAumySAJYbgidadjG-JT8-3CL76G&_nc_ohc=JkIgZC50o3kAX8Nokrk&_nc_ht=scontent.frjh1-1.fna&oh=00_AfCJrrGeNOtU3coqt1TIf60-z5nK3-8Vt34pxfby6Nskzw&oe=63DE6F6D)
-
+![I am a web developer]
 I'm From Bangladesh. Currently I'm studying Bsc In computer science. 
 
 Skills: HTML/CSS/BOOTSTRAP/JAVASCRIPT
