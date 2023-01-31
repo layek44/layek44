@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Css, BootStrap**
 
-- 📫 How to reach me **layek950@gmail.com**
+- 📫 Send me Email:  **layek950@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
